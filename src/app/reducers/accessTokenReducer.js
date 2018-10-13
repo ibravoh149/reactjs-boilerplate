@@ -1,3 +1,4 @@
+// This is just a sample reducer, modify it to suite your project
 import {
     GET_ACCESS_TOKEN, GET_ACCESS_TOKEN_ERROR
 } from '../actions/types';

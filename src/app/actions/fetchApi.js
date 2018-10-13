@@ -34,7 +34,6 @@ export const getAccessToken = () => {
   // console.log(error)
   // })
 
-  return 'working on action';
 
 
   // return dispatch => {
